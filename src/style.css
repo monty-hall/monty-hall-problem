@@ -1,0 +1,28 @@
+.content {
+	padding: 0px 12px;
+	max-width: 700px;
+	margin: auto;
+}
+
+form {
+	margin: 12px 0px;
+	display: flex;
+}
+
+form button {
+	margin: 0px 12px;
+}
+
+.footer-spacer {
+	height: 60px;
+}
+
+.page-footer {
+	background-color: white;
+	left:0;
+	right:0;
+	height: 40px;
+	position: fixed;
+	bottom: 0;
+	display: flex;
+}
